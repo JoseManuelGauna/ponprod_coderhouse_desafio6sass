@@ -1,0 +1,41 @@
+a:link {
+    color: #B25068;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #B25068;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffb170;
+    text-decoration: none;
+}
+
+html {
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+}
+
+body {
+    padding: 0%;
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* DESKTOP VIEW*/
+ul {
+    padding: 15px;
+    margin: 0%;
+    background-color: #f8d3b4;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 4vw;
+    font-size: calc(10px + 6 * ((100vw - 320px) / 680));
+    max-width: 100%;
+    list-style: none;
+    width: 100vmax;
+}

@@ -1,0 +1,5 @@
+DESAFIO ENTREGABLE N°6 (APLICANDO SASS)
+
+-En primera instancia, instalé Node.JS, Inicializé NPM e instalé Node-SASS y Nodemon.
+-Cree los archivos scss, copie la informacion de los css, vacie los css originales e implemente el watch-css para mantener sincronizados los paquetes.
+-Realicé el Nesting del código que me pareció redundante. De igual manera lo voy a seguir simplificando.
